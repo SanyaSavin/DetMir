@@ -1,0 +1,1 @@
+﻿SELECT Nazvanie FROM Peradachi WHERE Id = 3 and 

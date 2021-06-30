@@ -1,0 +1,1 @@
+﻿INSERT INTO Peradachi (Kod_peredachi, Nazvanie, Raiting, Snoimost_minuti) VALUES ('001',  N'1 канал', '85',  N'10000 рублей')

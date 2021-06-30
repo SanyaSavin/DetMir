@@ -1,0 +1,1 @@
+﻿INSERT INTO Zakazchiki (Kod_zakazchika, Nazvanie, Bankovskiy_rekviziti, Telephone, Kontaktnoe_lico) VALUES ('001', '001', '005', '88057575', N'Василий')

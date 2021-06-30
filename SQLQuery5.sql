@@ -1,0 +1,1 @@
+﻿INSERT INTO Reklama (Kod_reklami, Kod_peredachi, Kod_zakazchika, Data, Dlitelnost_v_minutah) VALUES ('067',  '001', '0f1',  '01/05/2021', N'2 минуты')
